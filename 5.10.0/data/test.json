@@ -1,0 +1,10 @@
+[
+  {
+    "id": "model",
+    "content": [
+      { "name": "Ivan", "age": "24", "income": null },
+      { "name": "Meng", "age": "31", "income": 999 }
+    ],
+    "year": "2022"
+  }
+]
